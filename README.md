@@ -14,7 +14,7 @@
 - 📫 Email **keaidehuangpi@gmail.com** to reach me
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://gitee.com/keaidehuangpi">@keaidehuangpi</a> on Gitee
+<a href="https://gitee.com/huiwow">@keaidehuangpi</a> on Gitee
 <br/>
 1603672536 on <a href="https://im.qq.com">QQ</a>
 <br/>
